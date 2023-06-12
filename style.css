@@ -1,0 +1,29 @@
+.app {
+      margin:auto 0px;
+      background-color: rgb(185, 185, 185);
+      width: 40%;
+      height: 50%;
+
+}
+body {
+      margin: 0px;
+      display: flex;
+      justify-content: center;
+      height: inherit;
+}
+
+.topic {
+      margin: 0px;
+      transition: 1s ease-in-out;
+}
+
+.topic:hover {
+      color: white;
+      transition: 1s ease-in-out;
+}
+
+html {
+      height: 100%;
+      transition: 100s ease-in-out;
+
+}
